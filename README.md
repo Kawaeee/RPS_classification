@@ -9,22 +9,22 @@
   * After that, we shuffle the dataset and randomly split using 80:10:10 ratios with [dataset-split](https://github.com/muriloxyz/dataset-split)
 
 ## Model
-- -
+- [EfficientNetB3](https://github.com/qubvel/efficientnet)
 
 ## Results
 |Set|Loss|Accuracy|
 |:--|:--|:--|
-|**Train**|-|-|
-|**Valid**|-|-|
-|**Test**|-|-|
+|**Train**|0.0207|0.9953|
+|**Valid**|0.0298|0.9958|
+|**Test**|-|0.9917|
 
 ## Hyperparameters and configurations
 
 | Configuration | Value |
 |:--|:--|
-|Epoch | - |
-|Batch Size | - |
-|Optimizer | - |
+|Epoch | 10 |
+|Batch Size | 16 |
+|Optimizer | ADAM |
 
 ## Reproduction
  
