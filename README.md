@@ -1,9 +1,42 @@
 # RPS_classification
-  This project was previously a part of CSC340 Artificial Intelligence class.
+  * This project was previously a part of CSC340 Artificial Intelligence class.
+
+  * We used Keras framework with GPU to develop our model using Google Colaboratory.
 
 ## Datasets
-- We proposed to combine these three datasets into one:
+* RPS dataset was acquired from [Rock Scissor Paper](https://www.kaggle.com/alishmanandhar/rock-scissor-paper)
 
-  - [Rock Paper Scissors Dataset](https://www.kaggle.com/sanikamal/rock-paper-scissors-dataset)
-  - [Rock-Paper-Scissors Images](https://www.kaggle.com/drgfreeman/rockpaperscissors)
-  - [Introducing Machine Learning Concepts by Training a Neural Network to Recognize Hand Gestures](https://github.com/alessandro-giusti/rock-paper-scissors)
+  * After that, we shuffle the dataset and randomly split using 80:10:10 ratios with [dataset-split](https://github.com/muriloxyz/dataset-split)
+
+## Model
+- -
+
+## Results
+|Set|Loss|Accuracy|
+|:--|:--|:--|
+|**Train**|-|-|
+|**Valid**|-|-|
+|**Test**|-|-|
+
+## Hyperparameters and configurations
+
+| Configuration | Value |
+|:--|:--|
+|Epoch | - |
+|Batch Size | - |
+|Optimizer | - |
+
+## Reproduction
+ 
+ - Install dependencies
+    ```Bash
+    pip install -r requirements.txt
+    ```
+    
+ - Run the train.py python script
+ 
+    ```Bash
+    python train.py 
+    ```
+    
+ - Open and run the notebook for prediction: `predictor.ipynb`
