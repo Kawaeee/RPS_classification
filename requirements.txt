@@ -1,0 +1,6 @@
+efficientnet 
+numpy
+matplotlib
+pillow
+scikit-learn
+tensorflow
