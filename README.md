@@ -14,8 +14,8 @@
 ## Results
 |Set|Loss|Accuracy|
 |:--|:--|:--|
-|**Train**|0.0207|0.9953|
-|**Valid**|0.0298|0.9958|
+|**Train**|0.0329|0.9927|
+|**Valid**|0.0487|0.9958|
 |**Test**|-|0.9917|
 
 ## Hyperparameters and configurations
