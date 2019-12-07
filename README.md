@@ -18,6 +18,10 @@
 |**Valid**|0.0487|0.9958|
 |**Test**|-|0.9917|
 
+<img src="https://raw.githubusercontent.com/Kawaeee/RPS_classification/master/training_graph.jpg?token=AGJARVM7XJHE72OKHBUQLJC56RVPC" width="500" height="500">
+
+#### You can download our model weight here: [Google Drive](https://drive.google.com/open?id=1hi4wDAVKJ2lydVJqY673JgoGTnppfKk9)
+
 ## Hyperparameters and configurations
 
 | Configuration | Value |
