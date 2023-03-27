@@ -20,7 +20,7 @@
 
 <img src="https://raw.githubusercontent.com/Kawaeee/RPS_classification/master/training_graph.jpg?token=AGJARVM7XJHE72OKHBUQLJC56RVPC" width="500" height="500">
 
-#### You can download our model weight here: [Google Drive](https://drive.google.com/open?id=1hi4wDAVKJ2lydVJqY673JgoGTnppfKk9)
+#### You can download our model weight here: [v1.0](https://github.com/Kawaeee/RPS_classification/releases/download/v1.0/RPS_efficientnet_10.h5)
 
 ## Hyperparameters and configurations
 
